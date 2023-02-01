@@ -1,2 +1,2 @@
-# HW1
+# HWs
 COEN241-Cloud Compouting
